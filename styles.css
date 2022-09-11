@@ -1,11 +1,11 @@
 h1 {
-    font-family: Combo, cursive;
+    font-family: 'Lexend Deca', sans-serif;
     font-style: italic;
     font-size: 50px;
   }
   
   h4 {
-    font-family: Montserrat, sans-serif;
+   
     margin-bottom: 0;
     font-style: bold;
   }
@@ -16,7 +16,23 @@ h1 {
   }
   
   .copyright {
-    font-family: Poppins;
+  
     font-size: 9px;
     font-style: italic;
+  }
+
+  .dsfjladsf {
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 300;
+  }
+
+  body {
+    font-family: 'Lexend Deca', sans-serif;
+  }
+
+  .weirdhighlight {
+    background-color: #fb923c;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 5px;
   }
