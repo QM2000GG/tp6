@@ -1,7 +1,7 @@
 h1 {
     font-family: 'Lexend Deca', sans-serif;
     font-style: italic;
-    font-size: 50px;
+    font-size: 30px;
   }
   
   h4 {
@@ -35,4 +35,42 @@ h1 {
     padding-left: 7px;
     padding-right: 7px;
     border-radius: 5px;
+  }
+
+  #table1 {
+
+  }
+
+  
+  .hdsk {
+    width: 95%;
+  }
+
+  @media only screen and (min-width: 768px) {
+
+h1 {
+  font-size: 50px;
+}
+
+    #table1 {
+      display: flex; 
+      flex-direction: row;
+      flex: 1;
+      justify-content: space-between; 
+      margin-left: 10px;
+      margin-right: 10px;
+    }
+   .sdfjhdsfkjsf {
+      padding-left: 10px;
+      padding-right: 10px;
+      flex: 1;
+     
+   }
+  }
+
+  .bruhvideo {
+    /*horizontal center div*/
+
+    
+    margin:0 auto;
   }
