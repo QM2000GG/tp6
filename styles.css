@@ -3,6 +3,13 @@ h1 {
     font-style: italic;
     font-size: 30px;
   }
+
+  
+  #openbox {
+    background-color: '#aaaaaa';
+    border: 0px;
+    border-radius: 5px;
+  }
   
   h4 {
    
